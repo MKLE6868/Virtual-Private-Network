@@ -1,0 +1,9 @@
+{
+  "name": "com.yourcompany.vpncontrol",
+  "description": "Python VPN Controller",
+  "path": "/absolute/path/to/vpn_host.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://<your-extension-id>/"
+  ]
+}

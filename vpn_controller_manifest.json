@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Python VPN Controller",
+  "version": "1.0",
+  "description": "Control your Python VPN from Chrome.",
+  "permissions": ["nativeMessaging"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
